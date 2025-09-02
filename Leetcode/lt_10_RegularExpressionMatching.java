@@ -1,5 +1,3 @@
-package Leetcode;
-
 public class lt_10_RegularExpressionMatching {
     /**
      * 方法一：动态规划（推荐）

@@ -1,4 +1,3 @@
-package Leetcode;
 
 public class lt_07_ReverseInteger {
     /**

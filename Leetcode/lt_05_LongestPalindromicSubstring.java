@@ -1,4 +1,3 @@
-package Leetcode;
 
 public class lt_05_LongestPalindromicSubstring {
     /**

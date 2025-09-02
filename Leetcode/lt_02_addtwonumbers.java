@@ -1,4 +1,3 @@
-package Leetcode;
 
 /**
  * Definition for singly-linked list.
@@ -19,7 +18,7 @@ class ListNode {
     }
 }
 
-class Solution {
+class lt_02_addtwonumbers {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         // 创建虚拟头节点
         ListNode dummy = new ListNode(0);
